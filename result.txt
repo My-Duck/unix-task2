@@ -1,0 +1,12 @@
+Expected tasks:  10
+Actual tasks:  10
+PID 2644 Succseed locks: 28
+PID 2649 Succseed locks: 39
+PID 2640 Succseed locks: 23
+PID 2643 Succseed locks: 21
+PID 2642 Succseed locks: 21
+PID 2648 Succseed locks: 46
+PID 2646 Succseed locks: 26
+PID 2641 Succseed locks: 35
+PID 2647 Succseed locks: 42
+PID 2645 Succseed locks: 16
